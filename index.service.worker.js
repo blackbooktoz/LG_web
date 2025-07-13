@@ -6,7 +6,7 @@
 /** @type {string} */
 const CACHE_VERSION = '1752434966|401237490';
 /** @type {string} */
-const CACHE_PREFIX = 'Lilith's Guidanc-sw-cache-';
+const CACHE_PREFIX = 'Lilith\'s Guidanc-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'index.offline.html';
