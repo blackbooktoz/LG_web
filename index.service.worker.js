@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1752764928|3031856823';
+const CACHE_VERSION = '1752946842|87630868';
 /** @type {string} */
 const CACHE_PREFIX = "Lilith's Guidanc-sw-cache-";
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
